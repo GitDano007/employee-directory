@@ -1,0 +1,19 @@
+
+
+.sidebarContainer {
+    width: 0vw;
+    height: 86.5vh;
+    background-color: rgb(233, 233, 233);
+    position: absolute;
+    top: 13.5vh;
+    border-right: 1px solid rgb(128, 128, 128);
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    width: 0vw;
+    background-color: rgb(255, 255, 255);
+    padding: 2vh .5vw 2vh .5vw;
+    border-bottom: 1px solid  rgb(128, 128, 128);
+}

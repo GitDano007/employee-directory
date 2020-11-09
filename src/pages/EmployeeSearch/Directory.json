@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1.0,
+      "firstName": "Joe",
+      "lastName": "Skewis",
+      "department": "Bass Guitars",
+      "title": "Musician"
+    },
+    {
+      "id": 2.0,
+      "firstName": "Dave",
+      "lastName": "Hofferbert",
+      "department": "Guitars",
+      "title": "Musician"
+    },
+    {
+      "id": 3.0,
+      "firstName": "Don Gonzo",
+      "lastName": "Gonzales",
+      "department": "Guitars",
+      "title": "Musician"
+    },
+    {
+      "id": 4.0,
+      "firstName": "Dan",
+      "lastName": "Seese",
+      "department": "Drums",
+      "title": "Drummer"
+    },
+    {
+      "id": 5.0,
+      "firstName": "Buddy",
+      "lastName": "Rich",
+      "department": "Drums",
+      "title": "Manager"
+    },
+    {
+      "id": 6.0,
+      "firstName": "Keith",
+      "lastName": "Moon",
+      "department": "Drums",
+      "title": "Drummer"
+    },
+    {
+      "id": 7.0,
+      "firstName": "John",
+      "lastName": "Entwistle",
+      "department": "Bass",
+      "title": "Manager"
+    },
+    {
+      "id": 8.0,
+      "firstName": "Paul",
+      "lastName": "McCartney",
+      "department": "Bass",
+      "title": "Manager Director"
+    },
+    {
+      "id": 9.0,
+      "firstName": "Michael",
+      "lastName": "Anthony",
+      "department": "Bass",
+      "title": "Bass Sales"
+    },
+    {
+      "id": 10.0,
+      "firstName": "Joe",
+      "lastName": "Walsh",
+      "department": "Guitars",
+      "title": "Sales"
+    },
+    {
+      "id": 11.0,
+      "firstName": "Peter",
+      "lastName": "Frampton",
+      "department": "Guitars",
+      "title": "Guitarist"
+    },
+    {
+      "id": 12.0,
+      "firstName": "John",
+      "lastName": "Bonham",
+      "department": "Drums",
+      "title": "Drummer"
+    }
+  ]
+  

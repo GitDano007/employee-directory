@@ -1,0 +1,57 @@
+.UDContainer {
+    position: absolute;
+    padding-top: 1vh;
+    left: 14vw;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+}
+
+.titleHead {
+    text-align: center;
+    font-size: 5vh;
+    font-weight: bold;
+}
+
+.desc {
+    text-align: center;
+    font-size: 3vh;
+    padding-bottom: 2.5vh;
+}
+
+.card {
+    background-color: rgb(134, 104, 243);
+    padding: 1vh;
+    border: 2px solid rgb(57, 29, 160);
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+}
+
+.cardText {
+    font-size: 1.75;
+    font-weight: bold;
+    padding-bottom: 1vh;
+}
+
+.searchBar {
+    align-items: center;
+    width: 15%;
+    height: 2vh;
+    font-size: 2vh;
+    padding-left: 3px;
+    margin-left: 5px;
+}
+
+.submitButton {
+    width: 8vw;
+    height: 3vh;
+    border: 1px solid rgb(134, 134, 134);
+    border-radius: 4px;
+}
+
+.output{
+    margin-top: 2vh;
+
+}
+
